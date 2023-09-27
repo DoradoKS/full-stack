@@ -1,4 +1,4 @@
--Aplicación Backend con una interface WebApiRest,  programada en NodeJs/Javascritp, usando el framework expresss y con acceso a una base de datos (sqlite) mediante un ORM (Sequelize)
+-Aplicación Backend con una interface WebApiRest,  programada en NodeJs/Javascript, usando el framework express y con acceso a una base de datos (sqlite) mediante un ORM (Sequelize)
 
 -Aplicación frontend con vistas en Html, Boostrap y código javascript con React, que consumirá las webapi del Backend
 
