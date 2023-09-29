@@ -3,7 +3,7 @@ function Footer() {
   return (
     <footer className="text-center">
     <small>
-      <span>© Galaxy Meow CinemaS 2023</span>
+      <span>© Galaxy Cinema 2023</span>
       <span className="m-4">-</span>
       <a href="tel:113"> <span className="fa fa-phone"></span> 0810-102-4320 </a>
       <span className="m-4">-</span>

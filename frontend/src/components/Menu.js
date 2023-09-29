@@ -6,7 +6,7 @@ function Menu() {
     <nav className="navbar navbar-dark bg-dark navbar-expand-md">
       <a className="navbar-brand">
         <i className="fa fa-industry"></i>
-        &nbsp;<i>Galaxy Meow Cinema</i>
+        &nbsp;<i>Galaxy Cinema</i>
       </a>
       <button
         className="navbar-toggler"

@@ -10,24 +10,11 @@
   margin-bottom: 0.5em;
 } 
 
-body {
-  background-color: rgb(241, 243, 247);
-}
-
 .divBody {
   background-color: white;
-  min-height: 75vh;
+  min-height: 88vh;
   padding: 1rem;
 }    
-body {
-  background-color: rgb(241, 243, 247);
-}
-
-.divBody {
-  background-color: white;
-  min-height: 75vh;
-  padding: 1rem;
-}
 
 /* pie de la pagina */
 footer {
